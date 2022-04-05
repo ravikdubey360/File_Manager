@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:checkableBehavior="single">
+    <item android:id="@+id/nav_home"
+        android:title="Home"
+        android:icon="@drawable/home"/>
+    <item android:id="@+id/nav_internal"
+        android:title="Storage"
+        android:icon="@drawable/storage"/>
+    <item android:id="@+id/nav_about"
+        android:title="About Us"
+        android:icon="@drawable/about"/>
+
+</group>
+
+</menu>
